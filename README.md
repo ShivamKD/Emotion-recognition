@@ -27,6 +27,8 @@ Emotion recognition is a technique used in software that allows a program to "re
 
 <a id="p2"></a> 
 # Installations:
+-tensorflow
+
 -keras
 
 -imutils
